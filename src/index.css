@@ -121,6 +121,8 @@ form {
   grid-template-columns: 1fr .5fr;
   margin-bottom: 1.6rem;
   padding: 1.2rem;
+  transition: all .5s;
+  overflow: hidden !important;
 }
 
 .form-split-bill {
